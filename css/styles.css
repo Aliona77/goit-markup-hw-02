@@ -1,7 +1,7 @@
 .address {
   font-style: normal;
 }
-/*============= Header==========*/
+/*============= Header ==========*/
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: bold;
@@ -36,4 +36,40 @@
   letter-spacing: 0.02em;
   /*color: #757575;*/
 }
-/*============= EndHeader==========*/
+/*============= End Header ==========*/
+
+/*============= Hero ===========*/
+.hero {
+  background-color: #2f303a;
+}
+.title-hero {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.363;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.modal-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.875;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background-color: #2196f3;
+}
+/*============= End Hero ===========*/
+
+/*============= Main ===========*/
+.subtitle{
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+/*============= End main ===========*/;
