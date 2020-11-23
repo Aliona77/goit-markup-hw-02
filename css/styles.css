@@ -13,7 +13,7 @@
 .logo-accent {
   color: #2196f3;
 }
-.navigation-list-link {
+.navigation-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 14px;
@@ -22,8 +22,8 @@
   color: #212121;
 }
 
-.navigation-list-link:hover,
-.navigation-list-link:focus,
+.navigation-menu-link:hover,
+.navigation-menu-link:focus,
 .header-tel:hover,
 .header-mail:focus {
   color: #2196f3;
@@ -110,36 +110,6 @@
   letter-spacing: 0.03em;
   color: #757575;
 }
-
 /*============= End Main ===========*/
-/*============= Footer ===========*/
-.footer {
-  background-color: #2f303a;
-}
-.logo-footer {
-  font-family: "Raleway", sans-serif;
-  font-weight: bold;
-  font-size: 26px;
-  line-height: 1.192;
-  letter-spacing: 0.03em;
-  color: #ffffff;
-  text-decoration: none;
-}
-.footer-address {
-  font-family: "Roboto", sans-serif;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 1.714;
-  letter-spacing: 0.03em;
-  color: #ffffff;
-}
-.footer-contact-mail,
-.footer-contact-tel {
-  font-family: "Roboto", sans-serif;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 1.714;
-  letter-spacing: 0.03em;
-  color: rgba(255, 255, 255, 0.6);
-  text-decoration: none;
-/*============= End Footer ===========*/
+
+/*=============Footer==========*/
