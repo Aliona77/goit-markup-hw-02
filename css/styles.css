@@ -9,6 +9,7 @@
   line-height: 1.192;
   letter-spacing: 0.03em;
   color: #000000;
+  text-decoration: none;
 }
 .logo-accent {
   color: #2196f3;
@@ -20,6 +21,7 @@
   line-height: 1.143;
   letter-spacing: 0.02em;
   color: #212121;
+  text-decoration: none;
 }
 
 .navigation-menu-link:hover,
@@ -37,6 +39,7 @@
   line-height: 1.143;
   letter-spacing: 0.02em;
   color: #757575;
+  text-decoration: none;
 }
 /*============= End Header ==========*/
 
@@ -113,3 +116,36 @@
 /*============= End Main ===========*/
 
 /*=============Footer==========*/
+.footer {
+  background-color: #2f303a;
+}
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer-address {
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  text-decoration: none;
+}
+.footer-contact-mail,
+.footer-contact-tel {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
