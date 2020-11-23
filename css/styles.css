@@ -149,3 +149,44 @@
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
 }
+/*============= End Footer==========*/
+
+/*=============Portfolio==========*/
+.modal-button-portfolio:hover,
+.modal-button-portfolio:focus {
+  background-color: #2196f3;
+  color: #212121;
+}
+.modal-button-portfolio.is-current {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.modal-button-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.162;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+.work-examples-title {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.work-examples-text {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.875;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/*=============End Portfolio==========*/
