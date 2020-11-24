@@ -101,11 +101,13 @@ ul {
   color: var(--accent-color);
 }
 .benefits-list-title {
+
   font-weight: bold;
   font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.03em;
   color: var(--accent-color);
+  text-transform: uppercase;
 }
 .benefits-list-text {
   font-weight: normal;
@@ -169,7 +171,7 @@ ul {
 /*=============Portfolio==========*/
 .modal-button-portfolio:hover,
 .modal-button-portfolio:focus {
-  background-color: #2196f3;
+  background-color:  #ffffff;
   color: var(--accent-color);
 }
 .modal-button-portfolio.is-current {
